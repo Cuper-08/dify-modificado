@@ -160,7 +160,7 @@
     "@storybook/react": "8.5.0",
     "@storybook/test": "8.5.0",
     "@testing-library/dom": "^10.4.0",
-    "@testing-library/jest-dom": "^6.8.0",
+    "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.0.1",
     "@types/dagre": "^0.7.52",
     "@types/jest": "^29.5.13",
