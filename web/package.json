@@ -185,7 +185,7 @@
     "eslint": "^9.35.0",
     "eslint-plugin-oxlint": "^1.6.0",
     "eslint-plugin-react-hooks": "^5.1.0",
-    "eslint-plugin-react-refresh": "^0.4.19",
+    "eslint-plugin-react-refresh": "^0.4.24",
     "eslint-plugin-sonarjs": "^3.0.2",
     "eslint-plugin-storybook": "^9.0.7",
     "eslint-plugin-tailwindcss": "^3.18.0",
